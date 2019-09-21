@@ -10,7 +10,7 @@ PRINT_FREQ: 100
 
 DATASET:
   DATASET: cityscapes
-  ROOT: 'data/'
+  ROOT: '/philly/rr1/resrchvc/v-depme/data/'
   TEST_SET: 'list/cityscapes/val.lst'
   TRAIN_SET: 'list/cityscapes/train.lst'
   NUM_CLASSES: 19
